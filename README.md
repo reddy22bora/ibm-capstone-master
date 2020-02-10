@@ -1,1 +1,2 @@
-# ibm-capstone-master
+# ibm-capstone
+IBM certification capstone project 
